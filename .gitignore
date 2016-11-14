@@ -90,3 +90,7 @@ ENV/
 
 # VSCode settings
 .vscode/
+
+# Local files with PII which shouldn't be part of project
+emails.txt
+phone_numbers.txt
